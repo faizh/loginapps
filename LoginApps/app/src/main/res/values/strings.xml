@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginApps</string>
+    urces>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="smktelkompwt"> SMK TELKOM SANDHY PUTRA PURWOKERTO</string>
+    <string name="loginSiswa">Login Siswa SMK Telkom Purwokerto</string>
+    <string name="signout">Sign Out</string>
+    <string name="download_materi_referensi">Download Materi Referensi</string>
+</resources>
